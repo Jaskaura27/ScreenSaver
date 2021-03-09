@@ -2,4 +2,4 @@
 
 > The program generates shapes with different colours, sizes and speed.
 
-![] Shape.png
+![] (Shape.png)
